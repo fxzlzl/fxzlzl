@@ -12,7 +12,7 @@ Me chamo Rafael Dos Santos, tenho 19 anos e sou natural de São Paualo. Concluí
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-white?style=for-the-badge&logoColor=white&logo=linke"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.instagram.com/faelxsfc_/">
         <img 
             alt="Instagram" 
             title="rede social ig" 
